@@ -4,8 +4,8 @@
 
 Учебный проект. Таблица сортировки и фильтрации клиентов.
 
-**Технологии**: + JavaScript
-                + Bootstrap
-                + Vue.js
-                + Vuex
+**Технологии**: 1. JavaScript
+                2. Bootstrap
+                3. Vue.js
+                4. Vuex
 
